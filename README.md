@@ -10,4 +10,12 @@ This is free software;  you can redistribute it  and/or modify it  under terms o
 
 This Ada code contains an algorithm to calculate an appromiation of the ratio of the speed of a body to the speed of sound in the surrounding medium (in this case air). From the user, an air temperature is given. Before calculating the speed of sound (Knots), the air temperature value must be converted to Kelvin (K). The speed of sound is then converted to the corresponding unit of the user provided measured air speed and the Mach value calculated and returned.
 
-** THIS CODE CONTAINS MULTIPLE (AND INTENTIONAL) BUGS. ITS PRIMARY PURPOSE IS TO DEMONSTRATE THE CAPABILITIES OF ADACORE TOOLING (GNATFUZZ, GNATTEST, CODEPEER, SPARK PRO ETC) TO IDENTIFY THE BUGS. IT IS NOT INTENDED FOR COMERCIAL USE! **
+**__THIS CODE CONTAINS MULTIPLE (AND INTENTIONAL) BUGS. ITS PRIMARY PURPOSE IS TO DEMONSTRATE THE CAPABILITIES OF ADACORE TOOLING (GNATFUZZ, GNATTEST, CODEPEER, SPARK PRO ETC) TO IDENTIFY THE BUGS. IT IS NOT INTENDED FOR COMERCIAL USE!__**
+
+For more information about all AdaCore products goto https://www.adacore.com/products
+
+For more information about the GNAT Dynamic Analysis Suite goto https://www.adacore.com/dynamic-analysis
+
+For more information about GNATfuzz goto https://www.adacore.com/dynamic-analysis/gnatfuzz
+
+This software was used in the recording of a podcast for Embedded Computing Design: https://embeddedcomputing.com/podcasts
